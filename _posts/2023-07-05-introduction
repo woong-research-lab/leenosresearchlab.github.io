@@ -2,33 +2,57 @@
 layout: post
 title:  "리노스 부설연구소 소개"
 date:   2023-06-27 14:41:14 +0900
-categories: 실적 안내
+categories: 안내
 ---
 리노스 부설연구소 기술 블로그에 오신 것을 환영합니다. 본 블로그는 오픈소스 기반으로 여러 개발 이슈를 기술 전문가와 공유하기 위해 개설되었습니다.
 
 연구분야
+-------
 - 인공지능(자연언어처리, 음성인식)
 - 사물인터넷
 - 노인 돌봄 지능정보기술
 - 센싱 및 국방 관련 기술
 
 주요 연구 수행 실적
+--------
+
+|과제명|수행기간|지원기관|
+|---|---|---|
+|지능형CCTV를 활용한 도로상황 모니터링시스템 시범 구축|2018.05.~2018.11.|과기정통부(KISA)|
+|지능형CCTV를 이용한 공항 관내/외 모니터링 시스템 시범 구축|2019.05.~.2019.11.|과기정통부(KISA)|
+|개방형OS 기반 고객의 소리(VOC) 분석 환경 및 인공지능용 학습 데이터 구축 시스템의 개발|2019.06.~2019.11.|과기정통부(NIPA)|
+|건설현장 등 전문가를 위한 AI파트너 개발|2020.06.~2021.05.|과기정통부(대덕재단)|
+|개방형OS 지원 AI파트너 서비스 개발|2020.05.~2020.11.|과기정통부(NIPA)|
+|스마트 안심 요양 서비스(1차)|2020.05.~2021.12.|과기정통부(NIA)|
+|데이터바우처지원사업 AI 가공부문(수요기관)|2020.08.~2020.11.|과기정통부(DB진흥원)|
+|기업기밀 유출 방지용 AI기반 엔드포인트 탐지 보안 솔루션의 개발|2020.09.~2020.12.|과기정통부(NIPA)|
+|스마트 안심 요양 서비스(2차)|2021.04.~2021.12.|과기정통부(NIA)|
+|AI홈 플랫폼 기술개발|2021.12.~2023.12.|산업통상자원부|
 
 
+주요 연구 협업 기업
+--------
+
+- [오디텍](http://www.od-tech.com/)   
+  센서와 각종 전문 기술을 개발하는 코스닥 등록 전문 기업입니다.
+- [파워보이스](http://www.kpvoice.com/)   
+  20년 이상 음성인식 분야만 전문적으로 연구를 수행한 음성 분야 최고의 기술력을 가진 기업입니다. 
+- [에스씨티](http://esct.co.kr/)   
+  스마트 안심요양서비스 등 공동 연구를 통하여 사물인터넷 기반 노인 요양 관련 기술을 공동으로 개발하고 있습니다.
+- [토피도](http://torpedo.co.kr/)   
+  ESB(enterprise service bus)의 독자 기술을 보유하고 있으며 그래프DB 등 최신 기술에 대한 독자 기술력을 가진 강소기업입니다.
 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+연구정책
+------
+- 상용화 및 실용화 지향   
+  많은 연구개발이 결과물로 남는 경우가 많습니다. 우리는 협업 기업들과 공동으로 실용화, 상용화에 근접하는 제품을 개발하기 위해 노력하고 있습니다.
+- 악마는 디테일에   
+  상용화의 가장 큰 걸림돌은 어떻게 그 정책을 만들어 나아가느냐에 있습니다. 제품화 계획에서 양산 계획, 원가 계산, SW의 경우 아키텍처의 보안성, 향후 과금 및 운영유지의 타당성 등을 면밀하게 검토하여 개발을 추진합니다.
+- 유연한 개발 체계   
+  내가 모든 것을 다 알 수 없습니다. AI만 하더라도 언어지능, 시각지능, 분석지능 각각이 달리 존재합니다. 리노스는 자연언어와 음성 분야에 특화되어 있습니다. 내가 잘 하는 것을 잘 할 때 비로소 기술은 발전합니다.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+기술 제휴 연락
+-----
+- 전화: 02-3489-6875
+- 이메일: hwjeong@leenos.co.kr
