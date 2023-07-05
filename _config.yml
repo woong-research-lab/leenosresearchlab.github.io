@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 리노스 부설연구소 기술 블로그 (Leenos Research Lab. Tech BLOG)
+title: 리노스 부설연구소 기술 블로그
 email: hwjeong@leenos.co.kr
 author: Jesse Jeong
 

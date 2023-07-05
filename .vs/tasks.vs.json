@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-2023-07-05-introduction",
+      "appliesTo": "_posts/2023-07-05-introduction",
+      "type": "launch"
+    }
+  ]
+}
