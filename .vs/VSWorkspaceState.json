@@ -4,8 +4,10 @@
     "\\assets",
     "\\assets\\images",
     "\\assets\\images\\banners",
+    "\\_data",
+    "\\_includes",
     "\\_posts"
   ],
-  "SelectedNode": "\\_posts\\2023-07-05-introduction",
+  "SelectedNode": "\\_posts\\2023-07-09-introduction2.md",
   "PreviewInSolutionExplorer": false
 }
